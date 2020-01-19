@@ -1,0 +1,7 @@
+bin
+obj
+.vscode
+.ionide
+.envrc
+token
+BenchmarkDotNet.Artifacts
